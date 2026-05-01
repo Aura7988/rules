@@ -1,14 +1,2 @@
-login.microsoftonline.com
-res.public.onecdn.static.microsoft
-+.events.data.microsoft.com
-gsa.apple.com
-gsas.apple.com
-wps.apple.com
-gdmf.apple.com
-books-analytics-events.apple.com
-time.asia.apple.com
-+.itunes.apple.com
-+.icloud.com
-+.smoot.apple.com
-+.push.apple.com
-+.ls.apple.com
++.recaptcha.net
++.recaptcha-cn.net
